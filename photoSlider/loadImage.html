@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<body lang="en" ng-app="loadImage">
+
+    <head>
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map">
+        <link rel="stylesheet" href="bower_components/angular-bootstrap/ui-bootstrap-csp.css">
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="loadImage.css" />
+        <link rel="stylesheet" href="SiteStyle.css"/>
+        
+        <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+        <script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+        <script type="text/javascript" src="bower_components/angular-animate/angular-animate.min.js"></script>
+        <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="bower_components/angular-bootstrap/ui-bootstrap.js"></script>
+        <script type="text/javascript" src="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+        <script type="text/javascript" src="bower_components/bootstrap/js/modal.js"></script>
+        <script type="text/javascript" src="app.js"></script>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <div>
+        <div class="mainDiv" ng-controller="ModalDemoCtrl as ctrl">
+
+            <div class="modalLink">
+                <a class="header" ng-click="open()">CLICK HERE TO ADD YOUR OWN IMAGE :  !</a>
+            </div>
+        </div>
+    </div>
+    <div>
+        <script type="text/ng-template" id="myModalContent.html">
+            <div class="modal-header">
+                <h3 class="modal-title">ADD IMAGE TO PHOTO SLIDER !</h3>
+            </div>
+            <div class="modal-body" ng-controller="imgCtrl as ctrl">
+                <ul>
+                    <form ng-submit="add()">
+
+                        <input ng-model="photo.title" placeholder="TITLE" />
+                        <input type="url" ng-model="photo.src" placeholder="url" />
+                        <input type="file" ng-model="photo.image" placeholder="CHOOSE FILE" id="file" onchange="loadImage()" />
+                        <!--onchange="angular.element(this).scope().bindPhoto(event)"-->
+                        <textarea ng-model="photo.description" placeholder="DESCRIPTION"></textarea>
+                        <input type="submit" value="Save" />
+                    </form>
+                </ul>
+            </div>
+        </script>
+    </div>
+
+
+
+
+    <div class="mainContainer" ng-controller="imgCtrl as ctrl">
+
+        <div class="wrapFocusImg">
+              <div class="pointer">
+                <div class="left-triangle" ng-click="showNext()"><</div>
+                <div class="right-triangle" ng-click="showPrev()">></div>
+            </div>
+            <img ng-src="{{photos[_Index].src}}" />
+            <div class="filmInfo">
+                <h1 class="h1Inner">{{photos[_Index].description}}<span></span></h1>
+                <h2 class="h2Inner">{{photos[_Index].title}}</h2>
+            </div>
+          
+        </div>
+
+
+
+        <section id="main-stage-menu" style="padding-bottom: 30px; background-image: none;">
+            <ul id="thumbnails" class="videos">
+                <li ng-repeat="photo in photos" class="show" style="width: 216.8px;" ng-show="displayPhoto(photo)">
+                    <img src="{{photo.src}}" ng-click="showPhoto($index)">
+                    <button class="removeImg" ng-click="removePhoto(photo)">X</button>
+                    <div class="details">
+                        <span>{{photo.title}}</span>
+                        <h4>{{photo.description}}</h4>
+                    </div>
+                </li>
+            </ul>
+        </section>
+        <div class="innerContainer">
+
+            <h2>Design And Edit Your Images ! <span></span></h2>
+            <div class="btnStyles">
+                <button ng-click="imageMode=0">Black&White</button>
+                <button ng-click="imageMode=1">Colourful</button>
+                <button ng-click="imageMode=2">New Design</button>
+                <img ng-src="{{photos[_Index].src}}" ng-class="{0:'bw', 1:'', 2:'brighten',3:'blur'}[imageMode]">
+            </div>
+        </div>
+    </div>
+   
+
+
+</body>
+</html>
+

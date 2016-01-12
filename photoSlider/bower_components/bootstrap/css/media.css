@@ -1,0 +1,74 @@
+/* line 1, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\000031}}
+.media {
+  margin-top: 15px;
+}
+/* line 5, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\000035}}
+.media:first-child {
+  margin-top: 0;
+}
+/* line 10, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000310}}
+.media,
+.media-body {
+  zoom: 1;
+  overflow: hidden;
+}
+/* line 16, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000316}}
+.media-body {
+  width: 10000px;
+}
+/* line 20, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000320}}
+.media-object {
+  display: block;
+}
+/* line 24, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000324}}
+.media-object.img-thumbnail {
+  max-width: none;
+}
+/* line 29, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000329}}
+.media-right,
+.media > .pull-right {
+  padding-left: 10px;
+}
+/* line 34, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000334}}
+.media-left,
+.media > .pull-left {
+  padding-right: 10px;
+}
+/* line 39, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000339}}
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+/* line 46, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000346}}
+.media-middle {
+  vertical-align: middle;
+}
+/* line 50, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000350}}
+.media-bottom {
+  vertical-align: bottom;
+}
+/* line 55, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000355}}
+.media-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+/* line 63, media.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/תקיות משתמש\/Desktop\/SNesherStyle!!!\/SNesherStyle--\/photoSlider\/bower_components\/bootstrap\/less\/media\.less}line{font-family:\0000363}}
+.media-list {
+  padding-left: 0;
+  list-style: none;
+}

@@ -1,0 +1,87 @@
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\bin\SNesherStyle--.dll.config
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\bin\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\bin\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+E:\SNesherStyle--\SNesherStyle--\bin\SNesherStyle--.dll
+E:\SNesherStyle--\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\SNesherStyle--\SNesherStyle--\bin\SNesherStyle--.xml
+E:\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\SNesherStyle--\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+E:\SNesherStyle-- - עותק\SNesherStyle--\bin\SNesherStyle--.dll
+E:\SNesherStyle-- - עותק\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\SNesherStyle-- - עותק\SNesherStyle--\bin\SNesherStyle--.xml
+E:\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\bin\SNesherStyle--.dll.config
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\bin\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\bin\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.dll.config
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.dll.config
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\bin\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle-- - עותק - עותק - עותק\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.dll.config
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\תקיות משתמש\Desktop\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+L:\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.dll.config
+L:\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.dll
+L:\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.pdb
+L:\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.xml
+L:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+L:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+L:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+L:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+L:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+E:\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.dll
+E:\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.pdb
+E:\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.xml
+E:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+E:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+E:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+E:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+E:\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.dll.config
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.dll
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.pdb
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\bin\SNesherStyle--.xml
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle__.Resources.resources
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.vbproj.GenerateResource.Cache
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.dll
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.xml
+Y:\Group2\bruk_s\My Projects\sari\SNesherStyle!!!\SNesherStyle--\obj\Debug\SNesherStyle--.pdb
