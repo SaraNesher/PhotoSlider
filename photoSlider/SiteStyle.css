@@ -234,20 +234,7 @@ ul.videos .details span {
 }
 
 
-.pointer .left-triangle {
-    float: left;
-    margin-left: -19px;
-}
 
-.pointer .right-triangle {
-    float: right;
-    margin-right: -19px;
-}
-
-.pointer .left-triangle, .pointer .right-triangle {
-  
-
-}
 
 .removeImg{
     position: absolute;
@@ -286,6 +273,9 @@ ul.videos .details span {
 
 .bw {
     
-
   -webkit-filter: grayscale(100%);
+}
+.brighten  {
+  -webkit-filter:brightness(2);
+    
 }

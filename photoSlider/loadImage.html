@@ -7,8 +7,8 @@
         <link rel="stylesheet" href="bower_components/angular-bootstrap/ui-bootstrap-csp.css">
         <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
         <link rel="stylesheet" href="loadImage.css" />
-        <link rel="stylesheet" href="SiteStyle.css"/>
-        
+        <link type="text/css" href="SiteStyle.css" rel="stylesheet" />
+
         <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
         <script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
         <script type="text/javascript" src="bower_components/angular-animate/angular-animate.min.js"></script>
@@ -53,18 +53,18 @@
 
 
     <div class="mainContainer" ng-controller="imgCtrl as ctrl">
-
+       
         <div class="wrapFocusImg">
-              <div class="pointer">
-                <div class="left-triangle" ng-click="showNext()"><</div>
-                <div class="right-triangle" ng-click="showPrev()">></div>
-            </div>
+            <a class="arrow prev" href="#" ng-click="showPrev()"></a>
+            <a class="arrow next" href="#" ng-click="showNext()"></a>
+           <div class="pointer"></div>
+              
             <img ng-src="{{photos[_Index].src}}" />
             <div class="filmInfo">
                 <h1 class="h1Inner">{{photos[_Index].description}}<span></span></h1>
                 <h2 class="h2Inner">{{photos[_Index].title}}</h2>
             </div>
-          
+
         </div>
 
 
@@ -88,11 +88,11 @@
                 <button ng-click="imageMode=0">Black&White</button>
                 <button ng-click="imageMode=1">Colourful</button>
                 <button ng-click="imageMode=2">New Design</button>
-                <img ng-src="{{photos[_Index].src}}" ng-class="{0:'bw', 1:'', 2:'brighten',3:'blur'}[imageMode]">
+                <img ng-src="{{photos[_Index].src}}" ng-class="{0:'bw', 1:'', 2:'brighten'}[imageMode]">
             </div>
         </div>
     </div>
-   
+
 
 
 </body>

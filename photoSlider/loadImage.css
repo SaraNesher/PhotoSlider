@@ -6,36 +6,38 @@
     /*font-family: 'Century Gothic', sans-serif;*/
     src: url(font/ufonts.com_century-gothic.ttf);
 }
+
 @font-face {
     font-family: 'TitlesFont';
     src: url(font/open-sans/OpenSans-Bold.ttf);
 }
 
 
-a{
-     width: 165px;
-     display: inline-block;
-     background-color: #EE5955;
-     text-align: center;
-     line-height: 15px;
-     font-size: 27px;
-     font-weight: bold;
-     text-decoration: none;
-     color: #ffffff;
-     height: 15px;
- }
- a:hover{
-     text-decoration: none;
-     color: white;
+a {
+    width: 165px;
+    display: inline-block;
+    background-color: #EE5955;
+    text-align: center;
+    line-height: 15px;
+    font-size: 27px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    height: 15px;
 }
 
-.detailValue:empty:before{
+    a:hover {
+        text-decoration: none;
+        color: white;
+    }
+
+.detailValue:empty:before {
     content: 'X';
     font-weight: bold;
     font-size: 18px;
 }
 
-input{
+input {
     border: 1px solid #028b53;
     border-radius: 3px;
     color: #999999;
@@ -47,15 +49,15 @@ input{
     width: 100%;
     margin: 5px;
 }
+
 button[type=submit] {
     display: block;
-    background-color: #259b6b;
+    background-color: #EE5955;
     padding: 0 5%;
     text-align: center;
     border-radius: 2px;
     box-shadow: 0px 4px 0px 0px #5db18f;
-    width:100%;
-
+    width: 100%;
     font-family: 'Open Sans', sans-serif;
     font-size: 24px;
     font-weight: 400;
@@ -66,7 +68,8 @@ button[type=submit] {
     margin-top: 20px;
     margin-bottom: 25px;
 }
-.modal-body ul{
+
+.modal-body ul {
     padding: 0px;
 }
 
@@ -89,7 +92,7 @@ textarea[placeholder=DESCRIPTION] {
     margin: 5px;
 }
 
-.modal-title{
+.modal-title {
     color: #008550;
     font-weight: 700;
     font-size: 32.33px;
@@ -99,4 +102,54 @@ textarea[placeholder=DESCRIPTION] {
     display: inline-block;
     text-transform: uppercase;
     line-height: 48px;
+}
+
+.arrow {
+    cursor: pointer;
+    display: block;
+    height: 64px;
+    margin-top: -35px;
+    outline: medium none;
+    position: absolute;
+    top: 50%;
+    width: 64px;
+    z-index: 5;
+}
+
+    .arrow.prev {
+        float: left;
+        background-color: transparent;
+        background-image: url("../photoSlider/Images/arrow_previous.png");
+        left: 20px;
+        opacity: 0.2;
+        transition: all 0.2s linear 0s;
+        background-repeat: no-repeat;
+    }
+
+    .arrow.next {
+        float: right;
+        background-color: transparent;
+        background-image: url("../photoSlider/Images/arrow_next.png");
+        opacity: 0.2;
+        right: 20px;
+        transition: all 0.2s linear 0s;
+        background-repeat: no-repeat;
+    }
+
+    .arrow.prev:hover {
+        opacity: 1;
+    }
+
+    .arrow.next:hover {
+        opacity: 1;
+    }
+.pointer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+    height: 19px;
+    background: url('images/arrow-up.png') center center no-repeat white;
+    margin: 0 49%;
 }
